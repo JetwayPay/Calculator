@@ -1,4 +1,3 @@
-EADME.md
 # Java Calculator App
 
 ## Overview
